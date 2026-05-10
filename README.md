@@ -60,8 +60,7 @@ Power BI was used to create interactive dashboards and visualizations such as:
 * Donut Charts
 * Bar Charts
 * Tree Maps
-* Pie Charts
-* Slicers and Filters
+* Column Charts
 
 ---
 
